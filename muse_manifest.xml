@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rzammzde.github.io/dejavu" resolutions="1x" timestamp="1534168216513">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rzammzde.github.io/dejavu" resolutions="1x" timestamp="1534197084092">
   <folder name="css">
     <file name="site_global.css" crc="169957138"/>
-    <file name="index.css" crc="4169383734" ref="index"/>
+    <file name="index.css" crc="4282053066" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="iranbold1.woff" crc="3874826568"/>
@@ -31,5 +31,5 @@
     <file name="favicon.ico" crc="429998941" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4121390227" seo="true" mt="1534168201184" redirect="true"/>
+  <file name="index.html" crc="337097764" seo="true" mt="1534197068735" redirect="true"/>
 </manifest>
